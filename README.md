@@ -84,7 +84,3 @@ I'm a software engineer and technical leader passionate about designing, develop
   - **Thesis:** *[Electronic system for studying spasticity and muscle mass loss through electro-stimulation](https://hdl.handle.net/10819/18601)* – This report presents an electronic system for studying spasticity and preventing muscle mass loss through muscle electrostimulation. The device was developed using a computational system called Raspberry Pi Model B, which serves as a user-machine interface to perform various activities enabled by the device. These include adjusting the frequency and shape of the electrical pulses applied to the patient.
 
 #
-
-### 📊 GitHub Stats
-
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabu0124&show_icons=true&theme=gruvbox)
