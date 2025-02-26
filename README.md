@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos Andres Castano Bustos
 
-**`Software Engineer & Technical Leader`**
+**`Software Engineer | Technical Leader | Exploring Game Development`**
 
 I'm a software engineer and technical leader passionate about designing, developing, and optimizing robust applications. I specialize in backend development with .NET and C#, as well as frontend development with Angular. I also have experience in DevOps and cloud environments, particularly Azure and Kubernetes. My focus is on delivering high-quality solutions that meet business needs and provide excellent user experiences. I enjoy working in teams, solving problems, and creating impactful solutions. I’m passionate about leading development teams, sharing ideas, and achieving great results together.
 
@@ -77,9 +77,11 @@ I'm a software engineer and technical leader passionate about designing, develop
 
 ### 🎓 Education
 
-- **M.S. in Software Engineering** - Universidad Javeriana Cali *(2022 – 2024)*
+- **M.S. in Software Engineering** - Universidad Javeriana Cali *(2022 – 2024)*  
+  - **Thesis:** *[Design and implementation of a prototype video game focused on developing musical skills](#)* – The project describes the development and implementation of a prototype for an adventure and music video game that involves real instruments as a way to interact with the game and allows the user to improve their musical skills. To achieve this, music teaching methodologies will be employed, and a modular software architecture will be designed to enable the reuse and easy substitution of components in the software. The main purpose is for this prototype to serve as a foundation for future stages of the project’s development.
 - **P.G. in Software Engineering** - Universidad Javeriana Cali *(2022 – 2023)*
-- **B.S. in Electronic Engineering** - Universidad de San Buenaventura Cali *(2009 – 2017)*
+- **B.S. in Electronic Engineering** - Universidad de San Buenaventura Cali *(2009 – 2015)*  
+  - **Thesis:** *[Electronic system for studying spasticity and muscle mass loss through electro-stimulation](https://hdl.handle.net/10819/18601)* – This report presents an electronic system for studying spasticity and preventing muscle mass loss through muscle electrostimulation. The device was developed using a computational system called Raspberry Pi Model B, which serves as a user-machine interface to perform various activities enabled by the device. These include adjusting the frequency and shape of the electrical pulses applied to the patient.
 
 #
 
